@@ -36,7 +36,7 @@
 }
 #up{
         margin: 70px 0px 30px 50px;}
-        
+
 .pic{
     font-style: 'Merriweather',sans-serif ;
     font-size: 20px;
@@ -46,6 +46,19 @@
 .text{
     font-family: 'Inter', sans-serif;
     
+}
+.place{
+    background-color:rgba(255, 0, 0, 0), rgba(255, 0, 0, 0);
+    text-align: center;
+    margin: 50px 60px 200px 60px;
+}
+.text-primary{
+    color: #FF0000;
+}
+.text-primary-too{
+    color: white;
+    background-color: #FF0000;
+    height: 40px;
 }
 
     
