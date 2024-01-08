@@ -82,12 +82,12 @@ margin: 0px 20px 0px 0px;
     padding: 0px 0px 0px 150px;
 }
 
-#web{
+.web{
+    color: #FF0000;
     display: flex;
-    padding: 0px 30px 0px 150px;
+    padding: 5px 60px 5px 60px;
     width: 200px;
     height: 200px;
-
 }
 .new{
     padding-top: 20px;
@@ -100,14 +100,30 @@ margin: 0px 20px 0px 0px;
 
 .site{
     text-align: center;
-    padding: 0px 80px 0px 80px;
-    width: 1068px
-    height: 96px;
-    top: 3765px;
-    left: 266px;
-
-
+    margin: 0px 80px 0px 80px;
 }
+
+.it{
+    width: 429px;
+    height: 542px;
+    border-radius: 10px, 16px, 0px, 0px;
+    display: flex;
+    margin: 100px 0px 20px 40px;
+}
+.extra{
+    margin: 0px 50px 0px 80px;
+    display: flex;
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width: 1300px
+    height: 229px
+    border-radius: 0px, 0px, 10px, 0px;
+}
+.is{
+    margin: 0px 150px 0px 450px;
+}
+
 
     
     
