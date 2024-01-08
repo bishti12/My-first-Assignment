@@ -19,9 +19,34 @@
     color: rgb(230, 43, 10);
 }
 #off{
-    color: black;
+    margin-top: 15px;
 }
-
+.Photo{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 100vh ;
+    margin:100px 0px 0px 60px;
+    display: flex;
+}
+.fixed{
+    background-color: black;
+    color: #FFFFFF;
+    width: max-content;
+    height: 50px;
+}
+#up{
+        margin: 70px 0px 30px 50px;}
+        
+.pic{
+    font-style: 'Merriweather',sans-serif ;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding:120px 0px 0px 120px ;
+}
+.text{
+    font-family: 'Inter', sans-serif;
+    
+}
 
     
     
