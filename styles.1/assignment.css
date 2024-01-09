@@ -146,10 +146,10 @@ margin: 0px 20px 0px 0px;
     padding: 0px;
 }
 .our{
-    text-align: left;
+   text-align: left;
 }
 .bag{
-    text-align: left;
+    text-align: right
    
 }
 .in{
@@ -233,7 +233,7 @@ margin: 0px 20px 0px 0px;
     text-align: center;
     
 }
-.our{
+.your{
     padding: 80px 20px 80px 60px;
     display: flex;
     height: 200px;
